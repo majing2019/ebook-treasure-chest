@@ -27,3 +27,10 @@ __pycache__/
 # 系统文件
 .DS_Store
 Thumbs.db
+downloads
+.outputs
+
+# Claude 技能追踪数据库（运行时数据）
+.claude/*.db
+.claude/settings.local.json
+.claude/__pycache__/
